@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"Bikram Samsohang",
+    "description":"I am a Software engineer with 4 plus year of experience in Web Development and Testing (Manual & Automated)",
+    "image":"bikram.png",
+    "bio":"I am an IT personnel with an experience of more than 4 years in Web Development and Software Testing (Automation and Manual testing) in Nepalese IT industry. I am skilled in HTML, Javascript, Typescript, CSS, Angular JS, Angular, React, Node JS, Protractor, Karma and Jasmine.",
+    "contactmessage":"Contact Me",
+    "email": "samsohangbikram@gmail.com",
+    "phone": "641-233-9280",
+    "github":"https://github.com/bikram455",
+    "project":"https://github.com/bikram455/my-resume",
+    "address":{
+      "street":"1000 N 4th Street",
+      "city":"Fairfield",
+      "state":"Iowa",
+      "zip": "52557"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Maharishi International University",
+        "degree":"MS Computer Science",
+        "graduated":"Studying Presently",
+        "description":"Web development, Cloud, MEAN stack, MERN stack"
+      },
+      {
+        "school":"Sikkim Manipal University",
+        "degree":"B.Tech Computer Science & Engineering",
+        "graduated":"June 2014",
+        "description":"Software Engineering, Datastructures, Algorithm, Network."
+      }
+    ],
+    "work":[
+      {
+        "company":"UBA Solutions Pvt Ltd",
+        "title":"Software Engineer Development in Test",
+        "years":"April 2021 - August 2022",
+        "description":"Performing manual and automated tests on applications, writing e2e test scripts using protractor, cucumber, Karma & Jasmine."
+      },
+      {
+        "company":"Versik Nepal Pvt Ltd",
+        "title":"Software Engineer",
+        "years":"March 2019 - April 2021",
+        "description":"Developing single page applications using Angular JS 1.6 and Angular 7."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Angular JS",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"Node JS",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
